@@ -1,16 +1,24 @@
 ## Hey, I'm Sana Fatima 👋
 
-#Aspiring Software Engineer | AI/ML Enthusiast | Building Solutions That Matter 
+Aspiring Software Engineer | AI/ML Enthusiast | Building Solutions That Matter 
 
 # About Me:
 🎓 MSc Artificial Intelligence & Machine Learning postgraduate passionate about building impactful technology.
+
 💻 Exploring Software Development Engineering (SDE) and AI Engineering through hands-on projects and continuous learning.
+
 🛠️ Working with Python, Java, SQL, React, Flask, FastAPI, and PostgreSQL to build practical applications.
+
 🧠 Interested in Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, and Data Analytics.
+
 🌐 Exploring full-stack development, backend engineering, REST APIs, databases, and software design.
+
 🧩 Passionate about solving real-world problems through thoughtful engineering and AI-driven solutions.
+
 ✨ Focused on writing clean, maintainable code and developing strong problem-solving skills.
+
 🌱 Continuously learning, building projects, and growing as a software engineer.
+
 🤝 Open to collaborating on meaningful software development and AI/ML projects.
 
 ## 🌐 Socials:
